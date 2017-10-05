@@ -10,6 +10,7 @@ namespace AKTue1_app
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("i hate you");
         }
     }
 }
